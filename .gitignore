@@ -1,6 +1,6 @@
 # Directories for generated files
-/target/
-/test-output/
+target/
+test-output/
 
 # Eclipse files and directories
 .project
